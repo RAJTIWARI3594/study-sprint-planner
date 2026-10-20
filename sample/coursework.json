@@ -1,0 +1,45 @@
+{
+  "start": "2026-10-26",
+  "days": 7,
+  "weekdays": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "daily_start_utc": "12:30",
+  "minutes_per_day": 100,
+  "session_minutes": 40,
+  "break_minutes": 5,
+  "tasks": [
+    {
+      "id": "java",
+      "title": "Java collections practice \u2014 synthetic task",
+      "deadline": "2026-10-27",
+      "minutes": 110,
+      "priority": 1
+    },
+    {
+      "id": "sql",
+      "title": "SQL joins & aggregation exercises",
+      "deadline": "2026-10-28",
+      "minutes": 140,
+      "priority": 2
+    },
+    {
+      "id": "methods",
+      "title": "Numerical methods problem set",
+      "deadline": "2026-10-30",
+      "minutes": 160,
+      "priority": 1
+    },
+    {
+      "id": "web",
+      "title": "Review servlet lifecycle notes",
+      "deadline": "2026-10-30",
+      "minutes": 180,
+      "priority": 3
+    }
+  ]
+}
